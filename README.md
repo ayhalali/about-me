@@ -25,6 +25,7 @@ This repo wil be used to provide some tools and resources about developing Web A
 
 My name is Ali. I am majoring in MS of Applied Computer Science. Below is my picture in Niagara Falls.
 
-![IMG_0900](https://user-images.githubusercontent.com/54427734/64040308-5a8c9500-cb22-11e9-8b02-b590cc448a59.jpg)
+![IMG_1125](https://user-images.githubusercontent.com/54427734/64041132-4a75b500-cb24-11e9-86fc-43ce76f42240.jpg)
+
 
   
