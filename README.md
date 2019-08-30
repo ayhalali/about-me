@@ -23,7 +23,7 @@ This repo wil be used to provide some tools and resources about developing Web A
 
  ## Contributors
 
-My name is Ali. I am majoring in MS of Applied Computer Science. Below is my picture in Niagara Falls.
+My name is Ali. I am majoring in MS of Applied Computer Science. Below is a picture for me with my youngest boy in Chicago.
 
 ![IMG_1125](https://user-images.githubusercontent.com/54427734/64041132-4a75b500-cb24-11e9-86fc-43ce76f42240.jpg)
 
