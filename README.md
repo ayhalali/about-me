@@ -14,11 +14,14 @@ This repo wil be used to provide some tools and resources about developing Web A
 
  ## Recommended Resources
 
- Share links to at least 3 resources you like for web development
+Here are some useful resources for designing and developing web pages:
 
+ - [PSD Tuts](http://psdtuts.com/)
+ - [Ultimate Designer Toolkit ](http://www.ultimatedesignertoolkit.com/category/tutorials/)
  - [w3schools](https://www.w3schools.com/)
  - [Stack Overflow](https://stackoverflow.com/)
  - [Web Developer’s Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+ - [CSS Tricks](http://css-tricks.com/)
  
 
  ## Contributors
