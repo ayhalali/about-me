@@ -19,10 +19,12 @@ This repo wil be used to provide some tools and resources about developing Web A
  - [w3schools](https://www.w3schools.com/)
  - [Stack Overflow](https://stackoverflow.com/)
  - [Web Developer’s Roadmap](https://github.com/kamranahmedse/developer-roadmap)
- - 
+ 
 
  ## Contributors
 
- Include your name, your degree program, and display a favorite image 
+My name is Ali. I am majoring in MS of Applied Computer Science. Below is my picture in Niagara Falls.
+
+![IMG_0900](https://user-images.githubusercontent.com/54427734/64040308-5a8c9500-cb22-11e9-8b02-b590cc448a59.jpg)
 
   
