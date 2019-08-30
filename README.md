@@ -12,7 +12,7 @@ This repo wil be used to provide some tools and resources about developing Web A
 
  To publish a repo with GitHub, you need Markdown language. Other tools you might need, if you are going to work locally, are VS Code, Git, and tortoiseGit. For publishing a repo on the cloud, you might need only a web browser.
 
- ## Recommended Resources
+## Recommended Resources
 
 Here are some useful resources for designing and developing web pages:
 
@@ -24,7 +24,7 @@ Here are some useful resources for designing and developing web pages:
  - [CSS Tricks](http://css-tricks.com/)
  
 
- ## Contributors
+## Contributors
 
 My name is Ali. I am majoring in MS of Applied Computer Science. Below is a picture for me with my youngest boy in Chicago.
 
